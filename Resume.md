@@ -7,7 +7,7 @@
 Upcoming scholar in Data Science with a background in biological sciences focused on machine learning and data storytelling. Interested in 
 biomedical data science applications and data driven problem solving across various industries.
 
-### EDUCATION 
+## EDUCATION 
 University of Maryland Baltimore County(UMBC)
 - Master of Professional Studies:Data Science
   

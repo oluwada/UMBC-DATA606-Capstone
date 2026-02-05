@@ -40,11 +40,35 @@
   - How does the intensity of a hard-working heart correlate with vitamin D.
 
 ## Data
-*Data Name*:`KS5_VDD TRPC6_Complete data set.xlsx`
-*Data Source*: `Data.gov/ U.S Environmental Protection Agency`
+**Data Name**:`KS5_VDD TRPC6_Complete data set.xlsx`
+
+**Data Source**: `Data.gov/ U.S Environmental Protection Agency`
+
+**Data Size**: 751.3 kB
+
+**Data Shape** 1872 rows x 10 columns
+
+**Row representation**: An animal subject(mice). There are multiple rows tied to each subject.
+
+**Data Dictionary**:
+
+| Column Name | Data Type | Definition                                                               |
+|-------------|-----------|--------------------------------------------------------------------------|
+| Animal ID   |           | Identifier for the mice                                                  |
+| Diet        |           | Type of Diet                                                             |
+| SDNN        |           | Standard deviation of the time between normal-to-normal beats            |
+| RMSSD       |           | Root mean squared of successive differences                              |
+| LF          |           | Low Frequency                                                            |
+| HF          |           | High Frequency                                                           |
+| LF/HF       |           | Ratio of these two frequency domains (LF/HF). provides an estimate of the relative balance between sympathetic (LF) and vagal (HF) activity.          |
+| timepoint   |           |            |
+| dose        |           |            |
+| Trt Code    |           |            |
+
+
+---
 
 
 
- 
 
 

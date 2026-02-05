@@ -54,16 +54,16 @@
 
 | Column Name | Data Type | Definition                                                               |
 |-------------|-----------|--------------------------------------------------------------------------|
-| Animal ID   |           | Identifier for the mice                                                  |
-| Diet        |           | Type of Diet                                                             |
-| SDNN        |           | Standard deviation of the time between normal-to-normal beats            |
-| RMSSD       |           | Root mean squared of successive differences                              |
-| LF          |           | Low Frequency                                                            |
-| HF          |           | High Frequency                                                           |
-| LF/HF       |           | Ratio of these two frequency domains (LF/HF). It provides an estimate of the relative balance between sympathetic (LF) and vagal (HF) activity.|
-| timepoint   |           | N/A                                                                      |
-| dose        |           | Dosage of dobutamine(The drug that agitates the heart)                                                    |
-| Trt Code    |           | Summary of Treatment give to subject                                     | 
+| Animal ID   | INT       | Identifier for the mice                                                  |
+| Diet        | STR       | Type of Diet                                                             |
+| SDNN        | FLOAT     | Standard deviation of the time between normal-to-normal beats            |
+| RMSSD       | FLOAT     | Root mean squared of successive differences                              |
+| LF          | FLOAT     | Low Frequency                                                            |
+| HF          | FLOAT     | High Frequency                                                           |
+| LF/HF       | FLOAT     | Ratio of these two frequency domains (LF/HF). It provides an estimate of the relative balance between sympathetic (LF) and vagal (HF) activity.|
+| timepoint   | STR       | N/A                                                                      |
+| dose        | STR       | Dosage of dobutamine(The drug that agitates the heart)                   |
+| Trt Code    | STR       | Summary of Treatment give to subject                                     | 
 
 ---
 

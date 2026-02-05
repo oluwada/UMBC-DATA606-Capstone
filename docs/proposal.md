@@ -16,7 +16,7 @@
 | **YouTube Presentation** | [Add Youtube Link] |
 | **PowerPoint Presentation** | [Add Powerpoint]] |
 | **GitHub Repository** | [GitHub Link](https://github.com/oluwada) |
-| **Linkedin**| 
+| **LinkedIn**| [LinkedIn Link](https://www.linkedin.com/in/damilare-aboyewa-511ab1295/)|
 
 ---
 ## Table of Contents

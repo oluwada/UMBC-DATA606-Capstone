@@ -35,8 +35,8 @@
   	- Vitamin D plays an essential role in regulating the heart. Low vitamin D levels can cause blood pressure to be high causing the heart to overwork to pump blood and damage the heart over time.
      
 - Research Questions:
-  - What are the biological patterns associated with being vitamin deficient in the cardiac system.
-  - What are the biological patterns associated with being vitamin deficient and blocking cation channels(TRPC6) in the cardiac system.
+  - What are the biological patterns associated with being vitamin deficient in the cardiac system?
+  - What are the biological patterns associated with being vitamin deficient and blocking cation channels(TRPC6) in the cardiac system?
   - How does the intensity of a hard-working heart correlate with vitamin D.
 
 ## Data
@@ -60,15 +60,23 @@
 | RMSSD       |           | Root mean squared of successive differences                              |
 | LF          |           | Low Frequency                                                            |
 | HF          |           | High Frequency                                                           |
-| LF/HF       |           | Ratio of these two frequency domains (LF/HF). provides an estimate of the relative balance between sympathetic (LF) and vagal (HF) activity.          |
-| timepoint   |           |            |
-| dose        |           |            |
-| Trt Code    |           |            |
-
+| LF/HF       |           | Ratio of these two frequency domains (LF/HF). It provides an estimate of the relative balance between sympathetic (LF) and vagal (HF) activity.|
+| timepoint   |           | N/A                                                                      |
+| dose        |           | Dosage of dobutamine(The drug that agitates the heart)                                                    |
+| Trt Code    |           | Summary of Treatment give to subject                                     | 
 
 ---
 
+**Targe/Label Column**: Diet 
 
+**Feature Columns**: 
+- SDNN
+- RMSDD
+- LF
+- HF
+- LF/HF
+- timepoint
+- dose
 
 
 

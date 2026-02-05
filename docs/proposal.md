@@ -15,8 +15,8 @@
 |----------|------|
 | **YouTube Presentation** | [Add Youtube Link] |
 | **PowerPoint Presentation** | [Add Powerpoint]] |
-| **GitHub Repository** | [Add Git hub] |
-| **Linkedin**| [Add Linkedin Link]
+| **GitHub Repository** | [GitHub Link](https://github.com/oluwada) |
+| **Linkedin**| 
 
 ---
 ## Table of Contents

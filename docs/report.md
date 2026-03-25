@@ -126,6 +126,33 @@ Missing Exposure values were filled with the category "Unknown" to preserve thes
 
 ![Image](https://github.com/user-attachments/assets/41090cc8-e8a0-4f40-ab0e-94f9f9e909e4)
 
-Univariate Analysis on Respiratory Metrics
+
+
+**Univariate Analysis on Respiratory Metrics**
+
+![Image](https://github.com/user-attachments/assets/3e470e56-4d60-4238-806d-aa8d2e583824)
+
+
+
+
+![Image](https://github.com/user-attachments/assets/75a35f78-3821-4774-b668-27e0bd0276f6)
+
+
+
+
+![Image](https://github.com/user-attachments/assets/2cdb6a57-5d80-4901-9dc5-3c81a1f5cf74)
+
+
+
+
+![Image](https://github.com/user-attachments/assets/df08e5a8-df05-4469-879f-1f4535b79dcd)
+
+
+
+
+![Image](https://github.com/user-attachments/assets/80ff73b4-f0dc-4b22-bc4e-41e139ae78ca)
+
+
+
 
 

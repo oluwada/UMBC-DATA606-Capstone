@@ -112,3 +112,20 @@ Features such as Log Time and Time of Experiment are dropped to avoid batch effe
 
 **Note**: Some observations in the Exposure column had placeholder values (.) so the true perecentage missing is 20%. These rows were kept since the other feature values were complete.
 Missing Exposure values were filled with the category "Unknown" to preserve these rows for modeling.
+
+![Image](https://github.com/user-attachments/assets/23e6e38e-6fe7-400b-9a5b-6df795fcd03d)
+
+**Class Balance**
+
+|Class             | Count          |
+|------------------|----------------|
+|VDD               |    340515      |
+|ND                |    306244      |
+
+- The target classes are roughly balanced
+
+![Image](https://github.com/user-attachments/assets/41090cc8-e8a0-4f40-ab0e-94f9f9e909e4)
+
+Univariate Analysis on Respiratory Metrics
+
+

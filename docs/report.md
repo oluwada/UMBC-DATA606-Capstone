@@ -155,7 +155,12 @@ Missing Exposure values were filled with the category "Unknown" to preserve thes
 
 - All the distributions of the respiratory metrics are rightly skewed meaning most of the observations are found in the lower value range with outliers in higher value range. This may make the model more sensitive to extreme observations potentially affecting the models ability to generalize.
 
-- To address the right-skewedness found in the distributions log transformation will be applied to ompresses the range of the data, making the distribution more symmetric.
+- To address the right-skewedness found in the distributions log transformation will be applied to compresses the range of the data, making the distribution more symmetric.
+
+
+**Multivariate Analysis**
+
+- The median breathing frequency was slightly higher in VDD mice compared to ND mice. The IQR of the VDD mice is larger than ND. 
 
 
 

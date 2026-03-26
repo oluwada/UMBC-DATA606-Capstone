@@ -160,7 +160,23 @@ Missing Exposure values were filled with the category "Unknown" to preserve thes
 
 **Multivariate Analysis**
 
-- The median breathing frequency was slightly higher in VDD mice compared to ND mice. The IQR of the VDD mice is larger than ND. 
+![Image](https://github.com/user-attachments/assets/d3f7b329-0221-46e7-b877-b7666adb30a1)
+
+- The median breathing frequency was slightly higher in VDD mice compared to ND mice. The VDD mice had a larger IQR and low and high outliers IQR while the ND mice and only showed high outliers showing  greater variability in the VDD group.
+
+![Image](https://github.com/user-attachments/assets/2eb59165-4cd5-4143-8cdb-c224dcc025c4)
+
+
+- The VDD mice showed lower median tidal volume than ND mice with ND mice showing greater variablity (Larger IQR) Both groups exhibiting high-value outliers.
+- 
+![Image](https://github.com/user-attachments/assets/3a134a69-4779-4e8e-904f-85897cbc253a)
+
+![Image](https://github.com/user-attachments/assets/0bc7c6c4-e005-45c0-8333-a6716f5575a1)
+
+- The VDD mice showed lower median inspiratory and expiratory time than ND mice with ND mice showing slightly greater variability in inspiratory and VDD mice showing greater variability with expiratory time. Both groups exhibit high-value outliers
+
+![Image](https://github.com/user-attachments/assets/e97d29c0-599d-4382-8a34-48d0a24c7fe2)
+- The VDD mice showed lower median Penh than ND mice with higher variability being seen in VDD mice and both groups wxhibiting high-value outliers(more in ND Mice)
 
 
 

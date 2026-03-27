@@ -168,7 +168,7 @@ Missing Exposure values were filled with the category "Unknown" to preserve thes
 
 
 - The VDD mice showed lower median tidal volume than ND mice with ND mice showing greater variablity (Larger IQR) Both groups exhibiting high-value outliers.
-- 
+  
 ![Image](https://github.com/user-attachments/assets/3a134a69-4779-4e8e-904f-85897cbc253a)
 
 ![Image](https://github.com/user-attachments/assets/0bc7c6c4-e005-45c0-8333-a6716f5575a1)

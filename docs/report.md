@@ -184,7 +184,10 @@ Missing Exposure values were filled with the category "Unknown" to preserve thes
 
 ![Image](https://github.com/user-attachments/assets/0f9e2d85-bf2c-4b63-87d6-d5d94b7429e0)
 
-- There is a strong negative correlation between Breathing Frequency and Inspiratory Time and Expiratory Time showing that higher breathing rates are associated with shorter inhalation and exhalation periods. While all the other associations were weak to moderate suggesting a limited relationship between the other respiratory metrics. 
+- There is a strong negative correlation between Breathing Frequency and Inspiratory Time and Expiratory Time showing that higher breathing rates are associated with shorter inhalation and exhalation periods. While all the other associations were weak to moderate suggesting a limited relationship between the other respiratory metrics.
+
+
+
 
 
 

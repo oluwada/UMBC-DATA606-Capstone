@@ -23,6 +23,8 @@
 
 - [Background](#background)
 - [Data](#data)
+- [Exploratory Data Analysis](#explorotarydataanaylsis)
+- [Data Preprocessing](#datapreprocessing)
 ---
 
 ## Background
@@ -186,6 +188,12 @@ Missing Exposure values were filled with the category "Unknown" to preserve thes
 
 - There is a strong negative correlation between Breathing Frequency and Inspiratory Time and Expiratory Time showing that higher breathing rates are associated with shorter inhalation and exhalation periods. While all the other associations were weak to moderate suggesting a limited relationship between the other respiratory metrics.
 
+
+
+## Data Preprocessing
+
+To prepare the data for modeling incorporating the categorical columns have to be numerically encoded to be included in the process.
+For the feature colummn : Exposure 
 
 
 

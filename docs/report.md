@@ -14,7 +14,7 @@
 | Resource | Link |
 |----------|------|
 | **YouTube Presentation** | [Add Youtube Link](https://youtu.be/wNBKkL0JYfM) |
-| **PowerPoint Presentation** |[Presentation Link](https://docs.google.com/presentation/d/1_Uo2MiB9m6ylytOplbu0HKU-DJ01xhvTqXBE-wt9oTU/edit?usp=sharing)
+| **PowerPoint Presentation** |[Presentation Link](https://docs.google.com/presentation/d/1JZPQjWkWeulRsJBbc1aCwwP_EpCnmTQZswLKvldrld0/edit?usp=sharing)
 | **GitHub Repository** | [GitHub Link](https://github.com/oluwada) |
 | **LinkedIn**| [LinkedIn Link](https://www.linkedin.com/in/damilare-aboyewa-511ab1295/)|
 

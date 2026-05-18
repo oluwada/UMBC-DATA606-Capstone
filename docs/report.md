@@ -192,8 +192,17 @@ Missing Exposure values were filled with the category "Unknown" to preserve thes
 
 ## Data Preprocessing
 
-To prepare the data for modeling incorporating the categorical columns have to be numerically encoded to be included in the process.
-For the feature colummn : Exposure 
+To prepare the data for modeling  with a dataset incorporating numerically encoding must be included in the process.
+
+For the feature column : Exposure 
+The 3 categories : Air, Smog, and Unknown are one hot encoded so each category is properly represented
+
+
+The target column: Diet is label encoded
+ND: 0
+VDD : 1
+
+## Modeling
 
 
 

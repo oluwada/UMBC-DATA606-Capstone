@@ -61,7 +61,7 @@ with result_box:
         if prediction == 0:
             st.success("Early-life **Normal Diet (ND)**", icon="✅")
         else:
-            st.error("Early-life **Vitamin-D Deficient Diet (VDD)**", icon"🚩")
+            st.error("Early-life **Vitamin-D Deficient Diet (VDD)**", icon="🚩")
 
         st.metric("Model Confidence", f"{probability:.2f}")
 

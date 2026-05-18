@@ -191,20 +191,33 @@ Missing Exposure values were filled with the category "Unknown" to preserve thes
 
 
 ## Data Preprocessing
-
-To prepare the data for modeling  with a dataset incorporating numerically encoding must be included in the process.
-
-For the feature column : Exposure 
-The 3 categories : Air, Smog, and Unknown are one hot encoded so each category is properly represented
+To prepare the data for modeling numerically encoded the categorical variables is a must. The Exposure column is the only categorical feature and the Diet column, the target was label encoded. 
 
 
-The target column: Diet is label encoded
-ND: 0
-VDD : 1
+## Model Training
+**Models**: Logistic Regression(Baseline), Random Forest, Gradient Boosting
 
-## Modeling
+**Packages**:numpy, pandas, scikit-learn, pickle scikit-learn, pandas, numpy, pickle
+
+**Performance Metrics**: Accuracy, Precision, Recall, and F1-Score 
+
+**Results**
+
+|Model                | Accuracy  | Precision (0 = ND) | Precision (1 = VDD) | Recall (0 = ND)| Recall(1 = VDD)|                                                    
+|---------------------|-----------|--------------------|--------------------|------------------|-----------|
+| Logistic Regression | 0.5364741 | 0.52               |     0.54           |       0.30        | 0.75       |
+| Random Forest       | 0.5644056 | 0.54               |     0.58           |       0.51        | 0.61       |
+| Gradient Boosting   | 0.580207  | 0.59               |     0.58           |      0.38         | 0.76       |            
+
+- Insights
+1. All models performed poorly with Gradient Boosting performing the best
+2. Each model recognizes VDD better than ND as the recall from each model is higher for VDD than ND.
 
 
+## Streamlit Application
+Using the best performing model: Gradient Boosting,a streamlit application was created
+
+##  Conclusion
 
 
 

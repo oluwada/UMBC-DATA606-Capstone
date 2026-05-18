@@ -214,10 +214,9 @@ To prepare the data for modeling numerically encoded the categorical variables i
 2. Each model recognizes VDD better than ND as the recall from each model is higher for VDD than ND.
 
 
-## Streamlit Application
-Using the best performing model: Gradient Boosting,a streamlit application was created
-
 ##  Conclusion
+The model performed poorly, with low accuracy scores in both the training and test sets, indicating its limited ability to learn underlying patterns with the given features. This result is likely driven by several factors. The longitudinal structure of the dataset violates the assumption of independent observations that the model expects. Additionally,  the inherent variability of the raw biological dataset may introduce noise, making it difficult to differentiate meaningful patterns from normal measurement variability and potential measurement error. The results show that treating a longitudinal dataset as independent does not allow for meaningful patterns to be captured. More appropriate model approaches that capture temporal or within-subject dependencies may be required.
+
 
 
 
